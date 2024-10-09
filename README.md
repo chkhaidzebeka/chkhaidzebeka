@@ -2,7 +2,7 @@
 root:~# cat ~/.me.json
 {
   "name": "Beka Chkhaidze",
-  "age": 23,
+  "age": 24,
   "current_job": "Web-Developer",
   "languages": ["JS","PHP","C"],
   "frameworks": ["Vue.js","Svelte","Express.js","Nest.js","Laravel","Tailwind.css"],
